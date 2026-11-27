@@ -1,6 +1,6 @@
 [![make.fun](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2.svg)](https://make.fun/c/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
-[![Rank](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/xyzar29/delete-word-dictionary/rank.svg)](https://make.fun/c/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
-[![Reward](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/xyzar29/delete-word-dictionary/reward.svg)](https://make.fun/c/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
+[![Rank](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/Xyzar29/delete-word-dictionary/rank.svg)](https://make.fun/c/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
+[![Reward](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/Xyzar29/delete-word-dictionary/reward.svg)](https://make.fun/c/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
 
 # Delete Word Dictionary
 
